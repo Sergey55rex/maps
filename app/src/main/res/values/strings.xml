@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">dz-maps</string>
+    <string name="title_activity_maps">список мест</string>
+
+    <string name="newMarker">Новый маркер</string>
+    <string name="editMarker">Редактировать маркер</string>
+    <string name="deleteMarker">Удалить маркер</string>
+    <string name="listAllMarkers">Список маркеров</string>
+    
+</resources>

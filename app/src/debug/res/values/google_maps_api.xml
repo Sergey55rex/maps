@@ -1,0 +1,16 @@
+<resources>
+    <!--
+    Package name:
+    site.kotty_kov.dz_maps
+
+    SHA-1 certificate fingerprint:
+    2C:4E:49:E8:A3:D5:A5:A7:D6:E2:4B:9A:C9:79:3D:74:D1:CF:C6:9D
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">KEY HERE!</string>
+</resources>
